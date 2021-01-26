@@ -8,5 +8,11 @@ public class Main {
         FactorX.Sun=1;
         FactorX.Moon=3;
         FactorX.PLanets=2;
+
+        SUN Freon= new SUN();
+        Freon.Heat="500kj";
+        Freon.Radius="7000km";
+        Freon.Temperature="40000c";
+
     }
 }
