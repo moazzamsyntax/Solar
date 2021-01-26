@@ -14,5 +14,12 @@ public class Main {
         Freon.Radius="7000km";
         Freon.Temperature="40000c";
 
+        planetOmaro Omaro =new planetOmaro();
+        Omaro.color="Red";
+        Omaro.Size="100000km";
+
+
+
+
     }
 }
