@@ -18,9 +18,7 @@ public class Main {
         Omaro.color="Red";
         Omaro.Size="100000km";
 
-        planetFearo Fearo =new planetFearo();
-        Fearo.color="Blue";
-        Dearo.Size="90900000km";
+       making anew commit 1
 
 
 
