@@ -15,9 +15,7 @@ public class Main {
         Freon.Temperature="40000c";
 
         planetOmaro Omaro =new planetOmaro();
-        Omaro.color="Red";
-        Omaro.Size="100000km";
-
+        Omaro.asfasfasfsafsaf
        making anasfdsfaf
 
 
