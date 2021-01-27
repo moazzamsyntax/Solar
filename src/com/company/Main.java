@@ -14,9 +14,11 @@ public class Main {
         Freon.Radius="7000km";
         Freon.Temperature="40000c";
 
-        planetFearo Fearo =new planetFearo();
-        Fearo.color="Blue";
-        Dearo.Size="90900000km";
+        planetOmaro Omaro =new planetOmaro();
+        Omaro.color="Red";
+        Omaro.Size="100000km";
+
+       making anew commit2
 
 
 
