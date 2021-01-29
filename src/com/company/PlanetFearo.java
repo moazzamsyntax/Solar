@@ -2,7 +2,7 @@ package com.company;
 
 public class PlanetFearo {
 
-    String Size;
+    String ize;
     String olor;
  
 
